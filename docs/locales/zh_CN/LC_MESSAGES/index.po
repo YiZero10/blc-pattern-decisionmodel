@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, ElaineHuang
+# This file is distributed under the same license as the Blockchain Patterns
+# Decision Model package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockchain Patterns Decision Model 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-04 15:31+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../source/index.rst:2 bc78e842921f44d08e40fe2a9f2581b2
+msgid "Welcome to Lumache's documentation!"
+msgstr "欢迎来到文档"
+
+#: ../../source/index.rst:4 501dbbeeaf02448ea724c9fa5be15cd7
+msgid ""
+"**Lumache** (/lu'make/) is a Python library for cooks and food lovers "
+"that creates recipes mixing random ingredients. It pulls data from the "
+"`Open Food Facts database <https://world.openfoodfacts.org/>`_ and offers"
+" a *simple* and *intuitive* API."
+msgstr "Lumache (/lu'make/) 是一个面向厨师和美食爱好者的 Python 库，可以创建混合随机成分的食谱。它从 Open Food Facts 数据库中提取数据，并提供简单直观的 API。"
+
+#: ../../source/index.rst:14 061077b223d34de2b476a8f93209dc7b
+msgid "This project is under active development."
+msgstr "该项目正在积极开发中。"
+
+#: ../../source/index.rst:17 593eed85ccbb49c6a67f5baa229e4e70
+msgid "Contents"
+msgstr "内容"
+
