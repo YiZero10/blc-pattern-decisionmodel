@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../source/design-patterns.rst:2 d16fa239d52c47249033d8897b0e879c
 msgid "Design Patterns"
-msgstr ""
+msgstr "设计模式"
 

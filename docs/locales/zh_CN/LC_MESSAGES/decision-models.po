@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../source/decision-models.rst:2 8d18fd026d994607bc3655a9d3672c10
 msgid "Decision Models"
-msgstr ""
+msgstr "决策模型"
 
