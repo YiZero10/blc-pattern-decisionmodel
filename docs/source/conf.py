@@ -17,8 +17,14 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'recommonmark'
+    'recommonmark',
+    'sphinx_markdown_tables'
 ]
+
+language = 'en'
+locale_dirs = ['../locales/']   # path is example but recommended.
+gettext_compact = False  # optional.
+gettext_uuid = True  # optional.
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -30,7 +36,6 @@ templates_path = ['_templates']
 
 # recommonmark is a python utility that allows markdown to be used within
 # Sphinx projects.
-# Installed version as per directive in docs/requirement.txt
 from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
