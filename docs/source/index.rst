@@ -20,5 +20,7 @@ Contents
    :maxdepth: 2
 
    introduction
-   decision-models
-   design-patterns
+   data_layer
+   incentive_layer
+   contract_layer
+   application_layer
