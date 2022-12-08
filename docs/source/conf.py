@@ -1,6 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
+import sys
 
 project = 'Blockchain Patterns Decision Model'
 copyright = '2022, ElaineHuang'
